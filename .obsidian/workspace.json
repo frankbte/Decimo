@@ -1,0 +1,179 @@
+{
+  "main": {
+    "id": "b84a24fe485f131f",
+    "type": "split",
+    "children": [
+      {
+        "id": "cf6f61814a722da2",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "246fbac97c1e80c8",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Graficacion/Elementos de un sistema grafico.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Elementos de un sistema grafico"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "abc9d11a2beb8bd1",
+    "type": "split",
+    "children": [
+      {
+        "id": "e5b37bd8e25e4d91",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "76ce32e02172f8b7",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
+            }
+          },
+          {
+            "id": "6d09882c9ea4fa17",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Search"
+            }
+          },
+          {
+            "id": "909d84d8beade6c0",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "eccb783ba14fb386",
+    "type": "split",
+    "children": [
+      {
+        "id": "4031f3abc20a6025",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "953671ad7da4cef3",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Graficacion/Elementos de un sistema grafico.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks for Elementos de un sistema grafico"
+            }
+          },
+          {
+            "id": "7eb65932f529669d",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Graficacion/Elementos de un sistema grafico.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links from Elementos de un sistema grafico"
+            }
+          },
+          {
+            "id": "eb0250fb8944dea7",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "78506e9c09b00b9b",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Graficacion/Elementos de un sistema grafico.md"
+              },
+              "icon": "lucide-list",
+              "title": "Outline of Elementos de un sistema grafico"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false
+    }
+  },
+  "active": "246fbac97c1e80c8",
+  "lastOpenFiles": [
+    "Analisis/Pasos para un análisis.md",
+    "Graficacion/Elementos de un sistema grafico.md",
+    "Untitled.md",
+    "Welcome.md",
+    "BD",
+    "Analisis",
+    "Seminario",
+    "Redes",
+    "Procesos",
+    "IA",
+    "Graficacion"
+  ]
+}
