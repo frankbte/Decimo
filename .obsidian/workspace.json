@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Graficacion/Elementos de un sistema grafico.md",
+                "file": "Redes/Redes de computadoras.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Elementos de un sistema grafico"
+              "title": "Redes de computadoras"
             }
           }
         ]
@@ -144,13 +144,23 @@
               "icon": "lucide-list",
               "title": "Outline of Elementos de un sistema grafico"
             }
+          },
+          {
+            "id": "b4d421dd196e35da",
+            "type": "leaf",
+            "state": {
+              "type": "git-view",
+              "state": {},
+              "icon": "git-pull-request",
+              "title": "Source Control"
+            }
           }
-        ]
+        ],
+        "currentTab": 4
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -159,13 +169,15 @@
       "canvas:Create new canvas": false,
       "daily-notes:Open today's daily note": false,
       "templates:Insert template": false,
-      "command-palette:Open command palette": false
+      "command-palette:Open command palette": false,
+      "obsidian-git:Open Git source control": false
     }
   },
   "active": "246fbac97c1e80c8",
   "lastOpenFiles": [
-    "Analisis/Pasos para un análisis.md",
     "Graficacion/Elementos de un sistema grafico.md",
+    "Redes/Redes de computadoras.md",
+    "Analisis/Pasos para un análisis.md",
     "Untitled.md",
     "Welcome.md",
     "BD",
