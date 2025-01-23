@@ -1,4 +1,5 @@
 
+## Elementos de 
 * Procesador (CPU)
 * Procesador grafico (GPU)
 * Memoria
