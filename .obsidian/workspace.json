@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "IA/Inteligencia Artificial.md",
+                "file": "Analisis/Análisis de algoritmos.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Inteligencia Artificial"
+              "title": "Análisis de algoritmos"
             }
           }
         ]
@@ -175,7 +175,9 @@
   },
   "active": "246fbac97c1e80c8",
   "lastOpenFiles": [
+    "BD/Bases de datos.md",
     "Seminario/Seminario de redes.md",
+    "IA/1-Agentes-Inteligentes",
     "IA/Inteligencia Artificial.md",
     "Analisis/Análisis de algoritmos.md",
     "Graficacion/Graficacion.md",
