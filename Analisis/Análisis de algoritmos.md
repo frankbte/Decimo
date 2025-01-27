@@ -9,3 +9,15 @@
 * Calcular el tiempo de ejecución multiplicando el tiempo por la frecuencia de cada operación y sumar todos los productos.
 
 
+# Merge Sort
+
+## El algoritmo merge sort cumple con el paradigma de dividir y conquistar
+
+1. **Dividir:** Divide la sucesión de n elementos en dos sucesiones de n/2 elementos cada una
+2. **Conquista**:
+3. 
+
+
+![[IMG_5240.jpg]]
+![[IMG_5239.jpg]]
+Nota: El algoritmo hace el mismo trabajo en el mejor y peor caso
