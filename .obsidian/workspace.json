@@ -175,6 +175,8 @@
   },
   "active": "b4d421dd196e35da",
   "lastOpenFiles": [
+    "Procesos/TareaAnillo.zip",
+    "Procesos/TareaAnillo/slurm-123306.out",
     "Procesos/slurm-123306.out",
     "Procesos/slurm-",
     "Procesos/TareaAnillo/anillo.slrm",
@@ -198,8 +200,6 @@
     "Welcome.md",
     "BD",
     "Analisis",
-    "Seminario",
-    "Redes",
-    "Procesos"
+    "Seminario"
   ]
 }
