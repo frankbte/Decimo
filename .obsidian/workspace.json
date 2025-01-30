@@ -173,8 +173,13 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "246fbac97c1e80c8",
+  "active": "b4d421dd196e35da",
   "lastOpenFiles": [
+    "Procesos/slurm-123306.out",
+    "Procesos/slurm-",
+    "Procesos/TareaAnillo/anillo.slrm",
+    "Procesos/TareaAnillo/anillo.py",
+    "Procesos/TareaAnillo",
     "Pasted image 20250130085008.png",
     "BD/Bases de datos.md",
     "IA/Inteligencia Artificial.md",
@@ -195,8 +200,6 @@
     "Analisis",
     "Seminario",
     "Redes",
-    "Procesos",
-    "IA",
-    "Graficacion"
+    "Procesos"
   ]
 }

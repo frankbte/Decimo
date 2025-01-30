@@ -1,0 +1,10 @@
+
+         Intel oneAPI 2021
+Soy el proceso 1, recibí el mensaje => Hola, soy el proceso 0, un saludo desde 5
+Soy el proceso 3, recibí el mensaje => Hola, soy el proceso 2, un saludo desde 1
+Soy el proceso 2, recibí el mensaje => Hola, soy el proceso 1, un saludo desde 0
+Soy el proceso 4, recibí el mensaje => Hola, soy el proceso 3, un saludo desde 2
+Soy el proceso 0, recibí el mensaje => Hola, soy el proceso 5, un saludo desde 4
+Soy el proceso 5, recibí el mensaje => Hola, soy el proceso 4, un saludo desde 3
+/var/spool/slurm/job123306/slurm_script: line 15: /LUSTRE/home/ppd_lcc_24: Is a directory
+
