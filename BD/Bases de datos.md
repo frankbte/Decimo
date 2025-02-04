@@ -52,3 +52,30 @@ El mundo real que será implementado en el sistema se percibe como un conjunto d
 * Describen una asociación entre entidades
 	* Profesor imparte asignatura
 	* Alumno toma asignatura
+
+
+# Interconexión de redes
+
+### El objetivo de la interconexión de redes es dar un servicio de comunicación de datos que involucre diversas redes con diferentes tecnologías de forma transparente para el usuario
+
+### Nos ayudan a superar las limitaciones físicas de los elementos básicos de una red.
+
+## Ventajas
+
+* Coordinación de tareas de diversos grupos de trabajo
+* Reducción de cortos
+* Aumento de la cobertura geográfica
+
+# Tipos de interconexión de redes
+
+* ## Interconexión de Área Local (RAL)
+	* Conecta redes que están geográficamente cerca, como puede ser la interconexión de redes de un mismo edificio o entre edificios, creando una Red de Área Metropolitana (MAN)  
+* ## Interconexión de Área Extensa
+	* Conecta redes geográficamente dispersas, por ejemplo, redes situadas en diferentes ciudades o países.
+
+## Ventajas
+* Fiabilidad 
+* Prestaciones (Rendimiento)
+* Seguridad
+* Geografía (Mas fácil administración)
+* Gran variedad de redes
