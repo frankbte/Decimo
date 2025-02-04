@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "BD/Bases de datos.md",
+                "file": "CopaTE/Copa TE.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Bases de datos"
+              "title": "Copa TE"
             }
           }
         ],
@@ -191,6 +191,9 @@
   },
   "active": "c6d7a57b918d4c84",
   "lastOpenFiles": [
+    "BD/Bases de datos.md",
+    "CopaTE/Copa TE.md",
+    "CopaTE",
     "Seminario/Seminario de redes.md",
     "Redes/Redes de computadoras.md",
     "Analisis/Análisis de algoritmos.md",
@@ -204,7 +207,6 @@
     "Procesos/TareaAnillo/anillo.py",
     "Procesos/TareaAnillo",
     "Pasted image 20250130085008.png",
-    "BD/Bases de datos.md",
     "Pasted image 20250130084022.png",
     "Pasted image 20250130083847.png",
     "Pasted image 20250130083825.png",
@@ -214,7 +216,6 @@
     "IMG_5240.jpg",
     "IA/1-Agentes-Inteligentes",
     "Welcome.md",
-    "BD",
-    "Analisis"
+    "BD"
   ]
 }

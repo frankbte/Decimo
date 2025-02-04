@@ -79,3 +79,15 @@ El mundo real que será implementado en el sistema se percibe como un conjunto d
 * Seguridad
 * Geografía (Mas fácil administración)
 * Gran variedad de redes
+
+
+## Lenguajes de base de datos
+
+### Los sistemas de bases de datos se proporcionan
+* Lenguaje de definición de datos
+* Especifican el esquema 
+* Permiten definir: Restricciones de dominio, integridad y autorizaciones
+
+### Lenguaje de manipulación de datos
+* Pueden ser procedimentales o declarativos
+* Entre sus funciones: Recuperar información, agregar, borrar, actualizar
