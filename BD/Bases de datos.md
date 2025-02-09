@@ -91,3 +91,18 @@ El mundo real que será implementado en el sistema se percibe como un conjunto d
 ### Lenguaje de manipulación de datos
 * Pueden ser procedimentales o declarativos
 * Entre sus funciones: Recuperar información, agregar, borrar, actualizar
+
+
+
+# Modelo Entidad-Relacion
+
+## Entidad
+* ### Una entidad es una cosa u objeto del mundo real que es distinguible de todos los demás objetos
+	 * Una entidad tiene un conjunto
+	 * Los valores de las propiedades pueden identificar unívocamente a cada objeto
+## Conjunto de entidades
+* ### Agrupa entidades del mismo tipo que comparten propiedades o atributos 
+	* Conjunto de entidades profesor
+	* Conjunto de entidades alumnos
+* ### Extensión
+	*  

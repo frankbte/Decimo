@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Redes/Redes de computadoras.md",
+                "file": "BD/Bases de datos.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Redes de computadoras"
+              "title": "Bases de datos"
             }
           }
         ],
@@ -191,11 +191,11 @@
   },
   "active": "c6d7a57b918d4c84",
   "lastOpenFiles": [
+    "Redes/Redes de computadoras.md",
     "CopaTE/Copa TE.md",
     "BD/Bases de datos.md",
     "CopaTE",
     "Seminario/Seminario de redes.md",
-    "Redes/Redes de computadoras.md",
     "Analisis/Análisis de algoritmos.md",
     "Graficacion/Graficacion.md",
     "IA/Inteligencia Artificial.md",
