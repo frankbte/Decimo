@@ -1,7 +1,7 @@
 
 ## Elementos de 
 * Procesador (CPU)
-* Procesador grafico (GPU)
+* Procesador gráfico (GPU)
 * Memoria
 * Frame-Buffer
 * Dispositivo entrada

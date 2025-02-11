@@ -1,0 +1,9 @@
+        """
+        print("--------------------------------------------------------------------")
+        print(f"Soy el proceso {rank} y con la lista que me pasaron saqué estos números primos: {local_primes}")
+        if local_primes:
+            print(f"Y mandé mi último primo {local_primes[-1]} al proceso {rank + 1}")
+        print(f"El gap máximo fue: {local_gaps}")
+        print(f"Los números primos gemelos fueron: {local_twin_primes}")
+        print("--------------------------------------------------------------------")
+        """
