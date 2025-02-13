@@ -105,4 +105,8 @@ El mundo real que será implementado en el sistema se percibe como un conjunto d
 	* Conjunto de entidades profesor
 	* Conjunto de entidades alumnos
 * ### Extensión
-	*  
+
+
+
+## Superclaves
+### La superclave es un conjunto de uno o vario atributos que, considerados conjuntamente, permiten identificar univocamente  cada una tupla de la relación
