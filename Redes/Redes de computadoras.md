@@ -32,3 +32,5 @@
 
 * Facilitan el acceso entre sistemas o eternos soportando diferentes protocolos
 * Las pasarelas tienen mayores capacidades que los ruteadores y los puentes porque no solo conectan redes de diferentes tipos, sino que también aseguran que los datos de una red que transportan son compatibles con los de la otra red.
+
+dhewigfiewgjlewñgoewñ
